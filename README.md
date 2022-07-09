@@ -59,3 +59,5 @@ MVVM is one of the architectural patterns which enhances separation of concerns,
  
 ### Retrofit : 
 <a href="https://square.github.io/retrofit/"><b>Retrofit</b></a> is a type-safe REST client for Android, Java and Kotlin developed by Square. The library provides a powerful framework for authenticating and interacting with APIs and sending network requests with OkHttp.
+
+### Application link : <a href="https://github.com/Raj-m01/News-App/blob/master/apk/News.apk">**Click here to download apk**</a>
